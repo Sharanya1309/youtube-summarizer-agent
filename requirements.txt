@@ -1,0 +1,11 @@
+# YouTube Video Summarizer Agent – Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Fetches transcripts/captions from YouTube videos (no API key needed)
+youtube-transcript-api==0.6.2
+
+# Official Google Generative AI (Gemini) Python SDK
+google-generativeai==0.7.2
+
+# Loads environment variables from a .env file
+python-dotenv==1.0.1
